@@ -27,7 +27,7 @@ Aplicação que permite inserir nomes, exibi-los em uma lista e sorteá-los alea
 3. Digite um nome no campo de entrada e clique no botão para adicionar.
 4. Para realizar o sorteio, clique no botão de "Sortear Amigo".
 
-## Estrutura do Código
+## Estrutura do Código(Parte Interativa)
 ```javascript
 // Lista para armazenar os nomes
 let amigos = [];
