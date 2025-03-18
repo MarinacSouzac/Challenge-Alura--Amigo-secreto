@@ -119,6 +119,7 @@ button {
     background-color: var(--color-tertiary);
     color: var(--color-text);
     border-radius: 0 25px 25px 0;
+    font-weight: bold;
 }
 
 .button-add:hover {
@@ -135,10 +136,10 @@ ul {
 }
 
 .result-list {
-    margin-top: 15px;
-    color: #05DF05;
+    margin-top:20px;
+    color: #aa1034;
     font-size: 22px;
-    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
 
