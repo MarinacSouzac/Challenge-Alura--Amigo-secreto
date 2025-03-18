@@ -1,26 +1,31 @@
-//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
+/* 
+    Nome do Projeto: Challenge Amigo Secreto
+    Author:Marina Cruz de Souza
+    Data de Criação: 2025-03-18 07:14H
+    Descrição:Aplicação que permita inserir nome e
+    exibilo em uma lista, para sorteá-lo
+*/
 
-//declaração de variável lista de nome de amigos
+//Declaração de variável
 let amigos=[];
 
-//Implemnetar função para  inserir nome de amigo
-function inserirNome()
+//Adicionar nomes 
+function adicionarNome()
 {
-    let nomeInserido=document.querySelector('input').value;
-    validarEntrada(nomeInserido);
     
-
-    
-
+}
+//Validar se o campo input está vazia ou não
+function validarEntrada()
+{
 
 }
-//Implemnetar função para validar Entrada
-function validarEntrada(nome)
+//Exibir a lista com os nomes inseridos ao decorrer dos que vão sendo adicionados
+function visualizarLista()
 {
-    if(nome=='')
-    {
-     alert("Por favor,insira um nome.");
-     return false;
-    }
-    return true;
+
+}
+//Clicar no botão para sortear um nome aleatoriamente 
+function sortearAmigo()
+{
+
 }
